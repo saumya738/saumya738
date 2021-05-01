@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saumya Bhardwaj
 - 👀 I’m interested in Web Development/ML/Neural-Networks
-- 🌱 I’m currently learning Every Technology i need to improve myself
+- 🌱 I’m currently learning Every Technology i need to improve myself in.
 - 💞️ I’m looking to collaborate on Web Development and inventing some cool Gadgets ;-)
 - 📫 Contact me @ Email- saumyabhardwaj672@gmail.com 
 
